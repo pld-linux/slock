@@ -1,11 +1,11 @@
 Summary:	slock - a simple X display locker
 Name:		slock
-Version:	1.0
-Release:	0.1
+Version:	1.1
+Release:	1
 License:	MIT
 Group:		Applications
 Source0:	http://dl.suckless.org/tools/%{name}-%{version}.tar.gz
-# Source0-md5:	98503f0dae5acc15c90b81ffd423f987
+# Source0-md5:	e3b25abdfd54c81562de4d63d3565be7
 URL:		http://tools.suckless.org/slock
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
